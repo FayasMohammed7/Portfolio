@@ -108,3 +108,6 @@ li {
 i,svg{
     color: azure;
 }
+i:hover,svg:hover{
+    color: mediumorchid;
+}
